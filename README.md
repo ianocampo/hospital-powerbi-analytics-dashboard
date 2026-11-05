@@ -8,7 +8,7 @@ A four-view Microsoft Power BI analytics case study based on **synthetic Hospita
 **Ian Ocampo** · Business & Digital Systems Integrator · Data Analytics & Business Intelligence  
 **Data Portfolio:** [DATA PORT — Data Analytics](https://data.ianocamposystems.com)
 
-[**Download native Power BI project**](powerbi/IanOcampo_PBI_Capstone.pbix) · [**Dashboard gallery**](#four-report-views) · [**Executive case study (PDF)**](docs/executive-case-study.pdf) · [**Executive findings**](#what-the-records-show) · [**KPI dictionary**](docs/kpi-definitions.md) · [**Methodology and limitations**](docs/methodology-and-limitations.md)
+[**Download native Power BI project**](powerbi/IanOcampo_PBI_Capstone.pbix) · [**Original dataset (Maven)**](https://mavenanalytics.io/data-playground/hospital-patient-records) · [**Dashboard gallery**](#four-report-views) · [**Executive case study (PDF)**](docs/executive-case-study.pdf) · [**Executive findings**](#what-the-records-show) · [**KPI dictionary**](docs/kpi-definitions.md) · [**Methodology and limitations**](docs/methodology-and-limitations.md)
 
 ![Actual Power BI Executive Overview from the approved Hospital Performance Intelligence report](assets/executive-overview.jpg)
 
