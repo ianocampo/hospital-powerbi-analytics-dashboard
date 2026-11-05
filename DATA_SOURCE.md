@@ -1,18 +1,7 @@
-# Data Source and Native-Report Availability
+# Data Source and Native Power BI Project
 
-## Dataset
-Maven Analytics **Hospital Patient Records**, a synthetic healthcare dataset with encounter, procedure, patient, payer and organization entities. The approved case study describes a modeled historical period from 2 January 2011 through 6 February 2022.
+**Native source:** [Download original PBIX](powerbi/IanOcampo_PBI_Capstone.pbix).
 
-The dashboard screenshots carry the report's original Massachusetts General Hospital demo label. **That label does not imply a real commissioned hospital engagement.** This is synthetic-data portfolio analytics.
+Synthetic **Maven Analytics Hospital Patient Records**, sourced from SyntheticMass. Four-page Power BI Desktop report; not a real hospital commission. Original PBIX structurally contains a binary Data Model, four-page report definition, visual resource files and filter/navigation elements. The owner opened it in Power BI Desktop, but independent complete-refresh and DAX-result reconciliation remain outside this structural verification.
 
-## What is included
-- Four original 1920×1080 Power BI dashboard images extracted from the approved PDF.
-- The original approved **15-page October 2026 Executive Case Study**.
-- Accurate executive and KPI documentation derived from that PDF.
-
-## What is not included
-- The final native `.pbix` / `.pbip` or TMDL source, not available for this documented public release.
-- Original raw dataset CSVs; their public redistribution and reproducibility status should be verified separately.
-- A claim of reproducible rebuilds or fully executable Power BI source.
-
-The final Power BI project must be recovered and validated before presenting this as an open-source model. In the meantime, this package is a transparent client-facing **analytics report showcase**.
+**Native-file SHA-256:** `1da76016654dc03470848013010c77241b20bcfb072d3bd2c6d2fac7a078b6d8`.

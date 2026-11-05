@@ -8,7 +8,7 @@ A four-view Microsoft Power BI analytics case study based on **synthetic Hospita
 **Ian Ocampo** · Business & Digital Systems Integrator · Data Analytics & Business Intelligence  
 **Data Portfolio:** [DATA PORT — Data Analytics](https://data.ianocamposystems.com)
 
-[**Dashboard gallery**](#four-report-views) · [**Executive case study (PDF)**](docs/executive-case-study.pdf) · [**Executive findings**](#what-the-records-show) · [**KPI dictionary**](docs/kpi-definitions.md) · [**Methodology and limitations**](docs/methodology-and-limitations.md)
+[**Download native Power BI project**](powerbi/IanOcampo_PBI_Capstone.pbix) · [**Dashboard gallery**](#four-report-views) · [**Executive case study (PDF)**](docs/executive-case-study.pdf) · [**Executive findings**](#what-the-records-show) · [**KPI dictionary**](docs/kpi-definitions.md) · [**Methodology and limitations**](docs/methodology-and-limitations.md)
 
 ![Actual Power BI Executive Overview from the approved Hospital Performance Intelligence report](assets/executive-overview.jpg)
 
@@ -82,9 +82,9 @@ The approved executive study documents **14 report measures**, four report views
 - [Dataset and source acknowledgments](DATA_SOURCE.md)
 - [Executive case study (15-page PDF)](docs/executive-case-study.pdf)
 
-### Native Power BI file status
+### Download the native Power BI project
 
-The approved executive PDF and all four report screenshots have been recovered and checked. The **final native `.pbix` / `.pbip` project has not been recovered from the connected sources**, so this package **does not claim to contain executable Power BI source code**. [Read the source and release status](DATA_SOURCE.md). A source-code release requires the actual approved report and an open/model verification in Power BI Desktop before conversion to PBIP/TMDL.
+[**Download the four-page Power BI Desktop report (.pbix)**](powerbi/IanOcampo_PBI_Capstone.pbix). The original project contains report definitions, embedded Data Model, navigation, filters, branded resources and visuals. The project owner confirmed the file opens in Power BI Desktop. Its package structure was independently checked; a fresh end-to-end refresh and complete DAX KPI re-execution have not been performed. See [DATA_SOURCE.md](DATA_SOURCE.md).
 
 ## Disclosure and interpretation
 
