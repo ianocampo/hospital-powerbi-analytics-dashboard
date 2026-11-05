@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+# Never commit private source snapshots, caches or connection secrets.
+data/raw/
+private-assets/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbitmp
